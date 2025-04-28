@@ -6,3 +6,4 @@ z = x+y
 
 #Dies ist eine Ausgabe
 print(z)
+print("Hallo")
